@@ -6,7 +6,7 @@
 <p align='center'>
 </p>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=krish567366.krish567366)
+![Profile Views](https://komarev.com/ghpvc/?username=krish567366&label=Profile%20Views&color=0e75b6&style=flat)
 [![Github](https://img.shields.io/github/followers/krish567366?label=Follow&style=social)](https://github.com/krish567366)
 
 <div size='20px'> Hi! My name is Krishna. Thank you for taking the time to view my GitHub Profile :smile:
