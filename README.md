@@ -7,7 +7,7 @@
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=krish567366&label=Profile%20Views&color=0e75b6&style=flat)
-[![Github](https://img.shields.io/github/followers/krish567366?label=Follow&style=social)](https://github.com/krish567366)
+[![Github](https://img.shields.io/github/followers/krish567366?label=Follow&style=social)](https://github.com/krish567366)a
 
 <div size='20px'> Hi! My name is Krishna. Thank you for taking the time to view my GitHub Profile :smile:
 </div>
@@ -20,7 +20,8 @@
 - 🌱 I’m currently learning **Full-stack development & cloud deployment**  
 - 👯 I’m looking to collaborate on **Open-source & Research projects**  
 - 💬 Ask me about **Python, Machine Learning, Quantum Tech, Optimization**  
-- ⚡ Fun fact: I love building things that feel futuristic 🚀  
+- ⚡ Fun fact: I love building things that feel futuristic 🚀
+- AIML Expert(https://krishnabajpai.me/)
 
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=32px></h2>
 
