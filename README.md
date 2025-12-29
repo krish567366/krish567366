@@ -19,7 +19,8 @@
 - 🔭 I’m currently working on **AI, ML, and Quantum Computing projects**  
 - 🌱 I’m currently learning **Full-stack development & cloud deployment**  
 - 👯 I’m looking to collaborate on **Open-source & Research projects**  
-- 💬 Ask me about **Python, Machine Learning, Quantum Tech, Optimization**  
+- 💬 Ask me about **Python, Machine Learning, Quantum Tech, Optimization**
+- 📘 Reading *Reduce Software Delays* by Pekka Enberg — studying latency sources, critical paths, and performance-oriented software architecture.
 - ⚡ Fun fact: I love building things that feel futuristic 🚀
 - AIML Expert(https://krishnabajpai.me/)
 
